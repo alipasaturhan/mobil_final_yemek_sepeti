@@ -2,4 +2,4 @@
 Baran Kaptaş - 212016721
 Ali Paşa Turhan - 212016722
 
-![plot](Screenshot_11.PNG)
+![plot](Screenshot_11.png)
